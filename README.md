@@ -40,11 +40,11 @@ WeatherApp/
                     └── WeatherApp.java
 
 
-Contributing
+##Contributing
 
 Feel free to fork this repository, make improvements, and create a pull request.
 Contributions are always welcome!
 
-Author deets: 
+##author deets
 Anirudh Manthani
 Built with ❤️ using Java.
