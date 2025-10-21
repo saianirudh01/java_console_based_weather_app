@@ -39,12 +39,17 @@ WeatherApp/
                 └── example/
                     └── WeatherApp.java
 
-
+---
 ##Contributing
 
 Feel free to fork this repository, make improvements, and create a pull request.
 Contributions are always welcome!
 
+---
 ##author deets
 Anirudh Manthani
 Built with ❤️ using Java.
+
+
+
+
